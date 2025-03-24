@@ -8,3 +8,4 @@ Implementations:
 * Convolutional Vision Transformer (CVT)
 * Fully Convolutional Transformer (FCT)
 * UNEt TRansformer (UNETR)
+* SegFormer3D 
